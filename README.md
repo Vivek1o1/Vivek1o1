@@ -4,8 +4,8 @@
 
 
 <a href="https://github.com/Vivek1o1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vivek1o1&show_icons=true&theme=merko&count_private=true" alt="Vivek1o1's github stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek1o1&theme=merko&layout=compact" alt="Vivek1o1's github top languages" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Vivek1o1&show_icons=true&theme=merko&count_private=true" alt="Vivek1o1's github stats" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek1o1&theme=merko&layout=compact" alt="Vivek1o1's github top languages" />
 </a>
 <br/>
 <br/>
