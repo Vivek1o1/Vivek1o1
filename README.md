@@ -12,6 +12,7 @@
 Hi! I am Vivek Singh, a web developer focused on crafting great web experiences. Designing and Coding have been my passion since the days I started working with computers but I found myself into web development since 2021. I enjoy creating beautifully designed, intuitive and functional websites.I'm quietly confident, naturally curious, and perpetually working on improving my chops one design problem at a time.I work to make a better web; one that is fast, easy to use, beautiful, accessible to all, and frustration-free.
 <br/>
 I mostly prefer C++ , Javascript as Programming Language. 
+<br/>
 I enjoy working with MERN STACK and much more.
 
 ## Find me around the web 🌎:
